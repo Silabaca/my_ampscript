@@ -1,0 +1,6 @@
+%%[
+IF A == B THEN 
+SET @C = D 
+ELSE SET @C = E 
+ENDIF
+]%%
